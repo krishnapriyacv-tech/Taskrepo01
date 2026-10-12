@@ -16,7 +16,7 @@
 | **Testing Types** | Functional, Regression, Integration, UI/UX, Web & Mobile Testing, API Testing |
 | **Automation & Languages** | java, Selenium Automation |
 | **Tools & Platforms** | Postman, Git, GitHub, Jira, Bug Tracking Tools |
-| **AI & Modern Workflow** | AI-assisted testing workflows, Prompt Engineering |
+
 
 ---
 
